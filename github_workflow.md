@@ -6,7 +6,7 @@
 
 <https://github.com/new>
 
-creates a new empty repo, with options for a .readme or .gitignore
+creates a new empty repo, with options for a README or .gitignore
 
 ### B. Locally
 
