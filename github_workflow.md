@@ -99,6 +99,7 @@ man page for patch is at <http://man7.org/linux/man-pages/man1/patch.1.html>
 | git show \<substring of hash>                     | shows the specific commit in detail                          |
 | git diff                                          | shows unstaged changes to HEAD                               |
 | git log --graph --oneline                         | generates an ascii visual version tree                       |
+| git config --global core.editor "\<editor> --wait"| changes the editor, if vscode --wait recommended             |
 
 the --global flag in the above commands can be replaced with certain repo names for different projects
 
