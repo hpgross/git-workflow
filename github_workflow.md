@@ -20,6 +20,7 @@ initializes a new empty git repo at the cwd
 | ---                               | ---                                                                   |
 | git add \<newfile>                | adds the file to the list of tracked files for the local repo         |
 | git add \<file>                   | stages the changed file                                               |
+| git add -A                        | stages all files in the git dir                                       |
 | git status                        | shows status of working tree and staging area                         |
 | git commit                        | commits the changes currently in the staging area and opens a text editor to make a commit message |
 | git commit -m "\<commit message>" | commits the changes with an instant commit message as a parameter     |
